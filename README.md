@@ -1,4 +1,3 @@
-
 # Restful WS project
 
 1. Spring Security.
