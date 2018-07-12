@@ -1,22 +1,22 @@
 #EXTM3U ducnt123 | 10.03.2018
 
-#EXTINF:-1 tvg-id="VTV 1" tvg-name="VTV 1" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png" group-title="",VTV1
+#EXTINF:-1 tvg-id="VTV 1" tvg-name="VTV 1" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png" group-title="",VTV1 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV 2" tvg-name="VTV 2" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="",VTV2
+#EXTINF:-1 tvg-id="VTV 2" tvg-name="VTV 2" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="",VTV2 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV 3" tvg-name="VTV 3" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png" group-title="",VTV3
+#EXTINF:-1 tvg-id="VTV 3" tvg-name="VTV 3" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png" group-title="",VTV3 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV4" tvg-name="VTV4" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png" group-title="",VTV4
+#EXTINF:-1 tvg-id="VTV4" tvg-name="VTV4" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png" group-title="",VTV4 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV5" tvg-name="VTV5" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png" group-title="",VTV5
+#EXTINF:-1 tvg-id="VTV5" tvg-name="VTV5" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png" group-title="",VTV5 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV 6" tvg-name="VTV 6" tvg-shift="" radio="" tvg-logo="http://i.imgur.com/keIENsc.png" group-title="",VTV6
+#EXTINF:-1 tvg-id="VTV 6" tvg-name="VTV 6" tvg-shift="" radio="" tvg-logo="http://i.imgur.com/keIENsc.png" group-title="",VTV6 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://epg.kplus.vn/Images?filename=media%2f1200px-VTV7Logo.png" group-title="",VTV7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://epg.kplus.vn/Images?filename=media%2f1200px-VTV7Logo.png" group-title="",VTV7 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VTVDN" tvg-name="VTVDN" tvg-shift="" radio="" tvg-logo="http://vtv1.vcmedia.vn/web_images/vtv8-3.png" group-title="",VTV8
+#EXTINF:-1 tvg-id="VTVDN" tvg-name="VTVDN" tvg-shift="" radio="" tvg-logo="http://vtv1.vcmedia.vn/web_images/vtv8-3.png" group-title="",VTV8 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV9" tvg-name="VTV9" tvg-shift="" radio="" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="",VTV9
+#EXTINF:-1 tvg-id="VTV9" tvg-name="VTV9" tvg-shift="" radio="" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="",VTV9 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HTV1" group-title="HTV" tvg-id="HTV1" tvg-logo="http://i.imgur.com/XWtxYdm.png",HTV1
